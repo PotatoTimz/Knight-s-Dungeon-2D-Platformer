@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: e84fefb2651679c469c040c5132e2029
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: bomb_character_Frame_0
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.5769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 178
+      width: 18
+      height: 26
+    spriteID: 23f68b1b34fc0ab4b89749954dc85b55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 178}
+  - name: bomb_character_Frame_1
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 143
+      width: 18
+      height: 27
+    spriteID: 73f3c4e8a48ad87489d9ffa356c9bdda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 143}
+  - name: bomb_character_Frame_2
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 113
+      width: 28
+      height: 27
+    spriteID: 6a578e43e1380624cb86df962e9e3854
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 113}
+  - name: bomb_character_Frame_3
+    originalName: 
+    pivot: {x: 0.3809524, y: -0.5769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 4
+      width: 21
+      height: 26
+    spriteID: c2c970077667c0748a1ac82a2eabdef3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 4}
+  - name: bomb_character_Frame_4
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 183
+      width: 26
+      height: 27
+    spriteID: e85353cbe8048394a9a93323d2010f61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 183}
+  - name: bomb_character_Frame_5
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 148
+      width: 28
+      height: 27
+    spriteID: b1ee9f6e51feadc47bf797f0188eeba8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 148}
+  - name: bomb_character_Frame_6
+    originalName: 
+    pivot: {x: 0.3809524, y: -0.5769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 38
+      width: 21
+      height: 26
+    spriteID: 08376ad6a5293cc4994d82f214dfbe13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 38}
+  - name: bomb_character_Frame_7
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 218
+      width: 26
+      height: 27
+    spriteID: f6127aac201af9143b255627f70cca8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 218}
+  - name: bomb_character_Frame_8
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.5357143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 107
+      width: 18
+      height: 28
+    spriteID: 22691318963f46745bf587f3c0de0b0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 107}
+  - name: bomb_character_Frame_9
+    originalName: 
+    pivot: {x: 0.4, y: -0.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 72
+      width: 20
+      height: 27
+    spriteID: dd8163b15a5da2e42b9e19c2c030201f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 72}
+  - name: bomb_character_Frame_10
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 212
+      width: 18
+      height: 20
+    spriteID: de997ed7f9ab8904f8b237b5f5420ecc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 212}
+  - name: bomb_character_Frame_11
+    originalName: 
+    pivot: {x: 0.4901961, y: -0.019607844}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 51
+      height: 51
+    spriteID: d42759ac35df7c54a8cbed41138a78fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: bomb_character_Frame_12
+    originalName: 
+    pivot: {x: 0.47619048, y: -0.11904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 63
+      width: 42
+      height: 42
+    spriteID: 9831fde12b3769a43bac051b9c59c777
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 63}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -664483358
+    name: bomb_character
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: bomb_character_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 24
+        y: 15
+        width: 18
+        height: 26
+      spriteId: 23f68b1b34fc0ab4b89749954dc85b55
+    - name: bomb_character_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 24
+        y: 15
+        width: 18
+        height: 27
+      spriteId: 73f3c4e8a48ad87489d9ffa356c9bdda
+    - name: bomb_character_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 20
+        y: 15
+        width: 28
+        height: 27
+      spriteId: 6a578e43e1380624cb86df962e9e3854
+    - name: bomb_character_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 24
+        y: 15
+        width: 21
+        height: 26
+      spriteId: c2c970077667c0748a1ac82a2eabdef3
+    - name: bomb_character_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 21
+        y: 15
+        width: 26
+        height: 27
+      spriteId: e85353cbe8048394a9a93323d2010f61
+    - name: bomb_character_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 20
+        y: 15
+        width: 28
+        height: 27
+      spriteId: b1ee9f6e51feadc47bf797f0188eeba8
+    - name: bomb_character_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 24
+        y: 15
+        width: 21
+        height: 26
+      spriteId: 08376ad6a5293cc4994d82f214dfbe13
+    - name: bomb_character_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 21
+        y: 15
+        width: 26
+        height: 27
+      spriteId: f6127aac201af9143b255627f70cca8e
+    - name: bomb_character_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 24
+        y: 15
+        width: 18
+        height: 28
+      spriteId: 22691318963f46745bf587f3c0de0b0b
+    - name: bomb_character_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 24
+        y: 15
+        width: 20
+        height: 27
+      spriteId: dd8163b15a5da2e42b9e19c2c030201f
+    - name: bomb_character_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 24
+        y: 15
+        width: 18
+        height: 20
+      spriteId: de997ed7f9ab8904f8b237b5f5420ecc
+    - name: bomb_character_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 7
+        y: 1
+        width: 51
+        height: 51
+      spriteId: d42759ac35df7c54a8cbed41138a78fa
+    - name: bomb_character_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 12
+        y: 5
+        width: 42
+        height: 42
+      spriteId: 9831fde12b3769a43bac051b9c59c777
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
